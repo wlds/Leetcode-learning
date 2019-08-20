@@ -1,5 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### Maven template
+.idea
 target/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -10,6 +11,7 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
+leetcode.iml
 
 ### Java template
 # Compiled class file
