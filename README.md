@@ -1,6 +1,6 @@
 ## LeetCode Learning
 
-写在前面: leetcode 学习记录，开始痛苦并快乐的旅程。GG~
+写在前面: leetcode 学习记录，开始痛苦并快乐的旅程。时刻逼迫自己亚。GG~
 
 ### 数据结构
 
